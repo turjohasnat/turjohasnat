@@ -8,7 +8,7 @@ My name is Md. Turjo Hasnat. I am a student. Currently, I'm studying Computer Sc
 
 Skills:  JS / HTML / CSS / C / C++ / C# /
 
-👋 Hi, I’m Md. Turjo Hasnat
+👋 Hi, It's Turjo 
 
 👀 I’m interested in Web-development, Problem-sovling, Graphics Designing and much more!
 
