@@ -16,6 +16,8 @@ Skills:  JS / HTML / CSS / C / C++ / C# /
 
 💞️ I've skills on JS , HTML , CSS , C , C++ , C# , Photoshop!
 
-📫 How to reach me : Email: turjohasnat7815@gmail.com, LinkedIn: www.linkedin.com/in/turjo-hasnat.
+📫 How to reach me : 
+Email: turjohasnat7815@gmail.com, 
+LinkedIn: www.linkedin.com/in/turjo-hasnat.
 
 😉 I'm a funny and interesting person - as my friends and families told me. So feel free to contact me anytime if you 
