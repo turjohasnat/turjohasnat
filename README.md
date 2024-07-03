@@ -1,5 +1,3 @@
-![Problem Solver, Web-Developer](https://scontent.fdac24-1.fna.fbcdn.net/v/t1.6435-9/126855753_484407655864983_702748137331831073_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=5f2048&_nc_ohc=su1_8bPwOjsAX9nQ3YJ&_nc_ht=scontent.fdac24-1.fna&oh=00_AfBuUTJl2Qu3u0-wXnuSV9NbLbosg7PqDGleTsh8093Bhg&oe=661E8D39)
-
 ### Hi there 👋, I'm Md. Turjo Hasnat
 #### Problem Solver, Web-Developer
 
