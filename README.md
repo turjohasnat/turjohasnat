@@ -4,7 +4,7 @@
 
 My name is Md. Turjo Hasnat. I am a student. Currently, I'm studying Computer Science & Engineering at United International University. 
 
-Skills:  HTML / CSS / C / C++ / C# / Java /
+Skills:    HTML / CSS / C / C++ / C# / Java /
 
 👋 Hi, I'm Turjo 
 
