@@ -4,15 +4,13 @@
 
 My name is Md. Turjo Hasnat. I am a student. Currently, I'm studying Computer Science & Engineering at United International University. 
 
-Skills:    HTML / CSS / C / C++ / C# / Java /
-
 👋 Hi, I'm Turjo 
 
-👀 I’m interested in Web-development, Problem-sovling, Graphics Designing and much more!
+👀 I’m interested in Web-development, Problem-sovling and much more!
 
 🌱 I’m currently learning C++ & also JavaScript.
 
-💞️ I've skills on JS , HTML , CSS , C , C++ , C# , Photoshop!
+💞️ I've skills on JS , HTML , CSS , C , C++ , C# , Java!
 
 📫 How to reach me : 
 Email: turjohasnat7815@gmail.com, 
